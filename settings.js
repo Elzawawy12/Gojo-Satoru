@@ -20,7 +20,7 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['201065231670']
-global.premium = ['201065231670']
+global.premium = ['Elzawawy']
 global.ownernomer = '201065231670'
 global.ownername = 'elzawawy'
 global.botname = 'Gojo-Satoru'
