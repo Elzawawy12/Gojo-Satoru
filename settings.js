@@ -42,6 +42,7 @@ global.mess = {
     group: '!الميزة دي للجروبات بس',
     private: '!الميزة دي للبرايفت بس',
     bot: 'الميزه دي للبوت بس',
+    wait: 'لحظه هخلصه اهو',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
