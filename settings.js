@@ -27,8 +27,8 @@ global.botname = 'Gojo-Satoru'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.sc = 'https://www.instagram.com/elzawawy_66/'
+global.myweb = 'https://www.youtube.com/channel/UCOk8qQlbPiJHhhGfWRdu2Nw'
 global.packname = 'Gojo-Satoru'
 global.author = 'Elzawawy'
 global.sessionName = 'session'
@@ -36,13 +36,12 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'الميزة دي للادمن بس',
-    botAdmin: 'البوت لازم يبقا ادمن الاول ينجم',
-    owner: 'الميزة دي للزواوي الفشيخ بس',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'لحظه هخلصه اهو',
+    admin: '!الميزة دي للادمن بس',
+    botAdmin: '!البوت لازم يبقا ادمن الاول ينجم',
+    owner: '😏الميزة دي للزواوي الفشيخ بس',
+    group: '!الميزة دي للجروبات بس',
+    private: '!الميزة دي للبرايفت بس',
+    bot: 'الميزه دي للبوت بس',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
